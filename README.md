@@ -1,7 +1,7 @@
 # Smart 3D Printer Safety and Readiness System
 
 ## Overview
-The **Smart 3D Printer Safety and Readiness System** ensures secure and reliable 3D printing by monitoring **temperature** and **vibrations** using an **STM32F446ZE microcontroller**. The system prevents printing if the temperature is below **20°C** and alerts users to excessive vibrations, reducing errors and protecting hardware. 
+The **Smart 3D Printer Safety and Readiness System** ensures secure and reliable 3D printing by monitoring **temperature** and **vibrations** using an **STM32F446ZE microcontroller**. The system prevents printing if the temperature is below **Threshold** and alerts users to excessive vibrations, reducing errors and protecting hardware. 
 
 ### **Features:**
 - **Real-time temperature monitoring** to ensure optimal printing conditions.
