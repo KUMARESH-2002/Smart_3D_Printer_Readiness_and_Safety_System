@@ -30,13 +30,13 @@ The **Smart 3D Printer Safety and Readiness System** ensures secure and reliable
 |                     | SCL         | Pin D15       |
 | **DHT11 Sensor**    | VCC         | 5V            |
 |                     | GND         | GND           |
-|                     | OUT         | Pin D32       |
+|                     | OUT         | Pin A0       |
 | **Vibration Sensor**| VCC         | 3.3V          |
 |                     | GND         | GND           |
-|                     | D0          | Pin A1        |
+|                     | D0          | Pin C0        |
 | **Buzzer**         | VCC         | 5V            |
 |                     | GND         | GND           |
-|                     | S           | Pin A0        |
+|                     | S           | Pin A3        |
 
 ---
 ## Working Principle
